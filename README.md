@@ -7,8 +7,6 @@ Hey there, I'm Ananya! 👋
 
 -----
 
-![Profile Views](https://komarev.com/ghpvc/?username=ananya8226&label=Profile%20views&color=0e75b6&style=flat)
-
 ### Tech stack I'm familiar with :
 
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
